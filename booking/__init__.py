@@ -1,0 +1,1 @@
+print("Every time booking folder is imported, __init__ will run") #cuando un archivo se llama __init__, este siempre se va a correr cuando la carpeta que la contiene sea importada
